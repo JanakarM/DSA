@@ -1,4 +1,4 @@
-# DSA
+# Topics worked with
 1. binary search
 1. decision tree
 	1. recursion
@@ -23,3 +23,6 @@
 1. bits 
 	1. bit manipulation
 	1. bit mask
+
+## Profile
+https://leetcode.com/a_perspective/
